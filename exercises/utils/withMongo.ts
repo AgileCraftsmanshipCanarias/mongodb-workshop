@@ -1,11 +1,12 @@
 import { type TestContext } from "node:test";
 import { Db, MongoClient } from "mongodb";
+import { uri } from "./url.ts";
 
 export function withMongo(fn: (t: TestContext, db: Db) => Promise<void>) {
   return (t: TestContext) => {
     let client: MongoClient;
     t.before(async () => {
-      client = new MongoClient("mongodb://localhost:27017/store");
+      client = new MongoClient(uri);
       await client.connect();
     });
     t.test("works", async () => {
