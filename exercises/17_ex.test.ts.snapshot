@@ -1,0 +1,39 @@
+exports[`busca cuántos productos tiene cada fabricante, incluyendo su nombre 1`] = `
+[
+  {
+    "_id": 1,
+    "total": 2,
+    "manufacturer": "Asus"
+  },
+  {
+    "_id": 6,
+    "total": 2,
+    "manufacturer": "Crucial"
+  },
+  {
+    "_id": 7,
+    "total": 1,
+    "manufacturer": "Gigabyte"
+  },
+  {
+    "_id": 3,
+    "total": 2,
+    "manufacturer": "Hewlett-Packard"
+  },
+  {
+    "_id": 2,
+    "total": 2,
+    "manufacturer": "Lenovo"
+  },
+  {
+    "_id": 4,
+    "total": 1,
+    "manufacturer": "Samsung"
+  },
+  {
+    "_id": 5,
+    "total": 1,
+    "manufacturer": "Seagate"
+  }
+]
+`;

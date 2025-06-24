@@ -1,0 +1,60 @@
+exports[`muestra el precio medio, mínimo y máximo de los productos por fabricante 1`] = `
+[
+  {
+    "_id": 2,
+    "minPrice": 444,
+    "maxPrice": 559,
+    "total": 2,
+    "manufacturer": "Lenovo",
+    "avgPrice": 501.5
+  },
+  {
+    "_id": 6,
+    "minPrice": 120,
+    "maxPrice": 755,
+    "total": 2,
+    "manufacturer": "Crucial",
+    "avgPrice": 437.5
+  },
+  {
+    "_id": 1,
+    "minPrice": 202,
+    "maxPrice": 245.99,
+    "total": 2,
+    "manufacturer": "Asus",
+    "avgPrice": 224
+  },
+  {
+    "_id": 7,
+    "minPrice": 185,
+    "maxPrice": 185,
+    "total": 1,
+    "manufacturer": "Gigabyte",
+    "avgPrice": 185
+  },
+  {
+    "_id": 4,
+    "minPrice": 150.99,
+    "maxPrice": 150.99,
+    "total": 1,
+    "manufacturer": "Samsung",
+    "avgPrice": 150.99
+  },
+  {
+    "_id": 3,
+    "minPrice": 59.99,
+    "maxPrice": 180,
+    "total": 2,
+    "manufacturer": "Hewlett-Packard",
+    "avgPrice": 120
+  },
+  {
+    "_id": 5,
+    "minPrice": 86.99,
+    "maxPrice": 86.99,
+    "total": 1,
+    "manufacturer": "Seagate",
+    "avgPrice": 86.99
+  }
+]
+`;

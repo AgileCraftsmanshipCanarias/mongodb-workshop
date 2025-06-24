@@ -1,0 +1,59 @@
+exports[`lista los nombres y los precios de todos los productos 1`] = `
+[
+  {
+    "_id": 1,
+    "name": "SATA3 1TB Hard Drive",
+    "price": 86.99
+  },
+  {
+    "_id": 2,
+    "name": "8GB DDR4 RAM",
+    "price": 120
+  },
+  {
+    "_id": 3,
+    "name": "1TB SSD Drive",
+    "price": 150.99
+  },
+  {
+    "_id": 4,
+    "name": "GeForce GTX 1050Ti",
+    "price": 185
+  },
+  {
+    "_id": 5,
+    "name": "GeForce GTX 1080 Xtreme",
+    "price": 755
+  },
+  {
+    "_id": 6,
+    "name": "24\\" LED Full HD Monitor",
+    "price": 202
+  },
+  {
+    "_id": 7,
+    "name": "27\\" LED Full HD Monitor",
+    "price": 245.99
+  },
+  {
+    "_id": 8,
+    "name": "Yoga 520 Laptop",
+    "price": 559
+  },
+  {
+    "_id": 9,
+    "name": "Ideapad 320 Laptop",
+    "price": 444
+  },
+  {
+    "_id": 10,
+    "name": "HP Deskjet 3720 Printer",
+    "price": 59.99
+  },
+  {
+    "_id": 11,
+    "name": "HP Laserjet Pro M26nw Printer",
+    "price": 180
+  }
+]
+`;

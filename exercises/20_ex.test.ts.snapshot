@@ -1,0 +1,33 @@
+exports[`agrupa los productos por rango de precio (menos de 200, entre 200 y 500, más de 500) 1`] = `
+[
+  {
+    "_id": 0,
+    "count": 6,
+    "products": [
+      "SATA3 1TB Hard Drive",
+      "8GB DDR4 RAM",
+      "1TB SSD Drive",
+      "GeForce GTX 1050Ti",
+      "HP Deskjet 3720 Printer",
+      "HP Laserjet Pro M26nw Printer"
+    ]
+  },
+  {
+    "_id": 200,
+    "count": 3,
+    "products": [
+      "24\\" LED Full HD Monitor",
+      "27\\" LED Full HD Monitor",
+      "Ideapad 320 Laptop"
+    ]
+  },
+  {
+    "_id": 500,
+    "count": 2,
+    "products": [
+      "GeForce GTX 1080 Xtreme",
+      "Yoga 520 Laptop"
+    ]
+  }
+]
+`;

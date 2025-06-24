@@ -1,0 +1,34 @@
+exports[`busca los productos con un precio entre 130 y 250 1`] = `
+[
+  {
+    "_id": 3,
+    "name": "1TB SSD Drive",
+    "price": 150.99,
+    "manufacturer_id": 4
+  },
+  {
+    "_id": 4,
+    "name": "GeForce GTX 1050Ti",
+    "price": 185,
+    "manufacturer_id": 7
+  },
+  {
+    "_id": 6,
+    "name": "24\\" LED Full HD Monitor",
+    "price": 202,
+    "manufacturer_id": 1
+  },
+  {
+    "_id": 7,
+    "name": "27\\" LED Full HD Monitor",
+    "price": 245.99,
+    "manufacturer_id": 1
+  },
+  {
+    "_id": 11,
+    "name": "HP Laserjet Pro M26nw Printer",
+    "price": 180,
+    "manufacturer_id": 3
+  }
+]
+`;

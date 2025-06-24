@@ -1,0 +1,32 @@
+exports[`saca cuantos productos hay por cada manufacturer_id 1`] = `
+[
+  {
+    "_id": 1,
+    "total": 2
+  },
+  {
+    "_id": 2,
+    "total": 2
+  },
+  {
+    "_id": 3,
+    "total": 2
+  },
+  {
+    "_id": 4,
+    "total": 1
+  },
+  {
+    "_id": 5,
+    "total": 1
+  },
+  {
+    "_id": 6,
+    "total": 2
+  },
+  {
+    "_id": 7,
+    "total": 1
+  }
+]
+`;

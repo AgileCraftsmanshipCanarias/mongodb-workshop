@@ -1,0 +1,9 @@
+exports[`devuelve el fabricante con el producto más caro 1`] = `
+[
+  {
+    "_id": 6,
+    "maxPrice": 755,
+    "manufacturer": "Crucial"
+  }
+]
+`;

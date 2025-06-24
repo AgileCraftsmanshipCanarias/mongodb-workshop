@@ -1,0 +1,58 @@
+exports[`busca los productos que no sean el 5 y el 9 1`] = `
+[
+  {
+    "_id": 1,
+    "name": "SATA3 1TB Hard Drive",
+    "price": 86.99,
+    "manufacturer_id": 5
+  },
+  {
+    "_id": 2,
+    "name": "8GB DDR4 RAM",
+    "price": 120,
+    "manufacturer_id": 6
+  },
+  {
+    "_id": 3,
+    "name": "1TB SSD Drive",
+    "price": 150.99,
+    "manufacturer_id": 4
+  },
+  {
+    "_id": 4,
+    "name": "GeForce GTX 1050Ti",
+    "price": 185,
+    "manufacturer_id": 7
+  },
+  {
+    "_id": 6,
+    "name": "24\\" LED Full HD Monitor",
+    "price": 202,
+    "manufacturer_id": 1
+  },
+  {
+    "_id": 7,
+    "name": "27\\" LED Full HD Monitor",
+    "price": 245.99,
+    "manufacturer_id": 1
+  },
+  {
+    "_id": 8,
+    "name": "Yoga 520 Laptop",
+    "price": 559,
+    "manufacturer_id": 2
+  },
+  {
+    "_id": 10,
+    "name": "HP Deskjet 3720 Printer",
+    "price": 59.99,
+    "manufacturer_id": 3
+  },
+  {
+    "_id": 11,
+    "name": "HP Laserjet Pro M26nw Printer",
+    "price": 180,
+    "manufacturer_id": 3
+  }
+]
+`;

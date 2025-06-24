@@ -1,0 +1,8 @@
+exports[`devuelve el producto más caro 1`] = `
+{
+  "_id": 5,
+  "name": "GeForce GTX 1080 Xtreme",
+  "price": 755,
+  "manufacturer_id": 6
+}
+`;

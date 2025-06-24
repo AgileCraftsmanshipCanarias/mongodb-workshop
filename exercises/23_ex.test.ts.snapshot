@@ -1,0 +1,32 @@
+exports[`obtene los fabricantes con al menos 2 productos caros (precio > 200) 1`] = `
+[
+  {
+    "_id": 1,
+    "name": "Asus",
+    "productosCaros": [
+      {
+        "name": "24\\" LED Full HD Monitor",
+        "price": 202
+      },
+      {
+        "name": "27\\" LED Full HD Monitor",
+        "price": 245.99
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "name": "Lenovo",
+    "productosCaros": [
+      {
+        "name": "Yoga 520 Laptop",
+        "price": 559
+      },
+      {
+        "name": "Ideapad 320 Laptop",
+        "price": 444
+      }
+    ]
+  }
+]
+`;

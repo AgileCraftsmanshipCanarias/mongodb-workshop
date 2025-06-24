@@ -1,0 +1,59 @@
+exports[`trae una lista de los productos con el nombre de su manufacturer 1`] = `
+[
+  {
+    "_id": 1,
+    "name": "SATA3 1TB Hard Drive",
+    "manufacturerName": "Seagate"
+  },
+  {
+    "_id": 2,
+    "name": "8GB DDR4 RAM",
+    "manufacturerName": "Crucial"
+  },
+  {
+    "_id": 3,
+    "name": "1TB SSD Drive",
+    "manufacturerName": "Samsung"
+  },
+  {
+    "_id": 4,
+    "name": "GeForce GTX 1050Ti",
+    "manufacturerName": "Gigabyte"
+  },
+  {
+    "_id": 5,
+    "name": "GeForce GTX 1080 Xtreme",
+    "manufacturerName": "Crucial"
+  },
+  {
+    "_id": 6,
+    "name": "24\\" LED Full HD Monitor",
+    "manufacturerName": "Asus"
+  },
+  {
+    "_id": 7,
+    "name": "27\\" LED Full HD Monitor",
+    "manufacturerName": "Asus"
+  },
+  {
+    "_id": 8,
+    "name": "Yoga 520 Laptop",
+    "manufacturerName": "Lenovo"
+  },
+  {
+    "_id": 9,
+    "name": "Ideapad 320 Laptop",
+    "manufacturerName": "Lenovo"
+  },
+  {
+    "_id": 10,
+    "name": "HP Deskjet 3720 Printer",
+    "manufacturerName": "Hewlett-Packard"
+  },
+  {
+    "_id": 11,
+    "name": "HP Laserjet Pro M26nw Printer",
+    "manufacturerName": "Hewlett-Packard"
+  }
+]
+`;

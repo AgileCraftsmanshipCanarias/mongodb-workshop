@@ -1,0 +1,70 @@
+exports[`añade un campo ivaIncluido que sea el precio con el 21% de IVA 1`] = `
+[
+  {
+    "_id": 1,
+    "name": "SATA3 1TB Hard Drive",
+    "price": 86.99,
+    "ivaIncluido": 105.26
+  },
+  {
+    "_id": 2,
+    "name": "8GB DDR4 RAM",
+    "price": 120,
+    "ivaIncluido": 145.2
+  },
+  {
+    "_id": 3,
+    "name": "1TB SSD Drive",
+    "price": 150.99,
+    "ivaIncluido": 182.7
+  },
+  {
+    "_id": 4,
+    "name": "GeForce GTX 1050Ti",
+    "price": 185,
+    "ivaIncluido": 223.85
+  },
+  {
+    "_id": 5,
+    "name": "GeForce GTX 1080 Xtreme",
+    "price": 755,
+    "ivaIncluido": 913.55
+  },
+  {
+    "_id": 6,
+    "name": "24\\" LED Full HD Monitor",
+    "price": 202,
+    "ivaIncluido": 244.42
+  },
+  {
+    "_id": 7,
+    "name": "27\\" LED Full HD Monitor",
+    "price": 245.99,
+    "ivaIncluido": 297.65
+  },
+  {
+    "_id": 8,
+    "name": "Yoga 520 Laptop",
+    "price": 559,
+    "ivaIncluido": 676.39
+  },
+  {
+    "_id": 9,
+    "name": "Ideapad 320 Laptop",
+    "price": 444,
+    "ivaIncluido": 537.24
+  },
+  {
+    "_id": 10,
+    "name": "HP Deskjet 3720 Printer",
+    "price": 59.99,
+    "ivaIncluido": 72.59
+  },
+  {
+    "_id": 11,
+    "name": "HP Laserjet Pro M26nw Printer",
+    "price": 180,
+    "ivaIncluido": 217.8
+  }
+]
+`;

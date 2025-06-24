@@ -1,0 +1,8 @@
+exports[`calcula el precio medio de los productos 1`] = `
+[
+  {
+    "_id": null,
+    "avgPrice": 271.7236363636364
+  }
+]
+`;

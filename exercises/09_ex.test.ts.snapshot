@@ -1,0 +1,16 @@
+exports[`busca los productos 1 y 5 1`] = `
+[
+  {
+    "_id": 1,
+    "name": "SATA3 1TB Hard Drive",
+    "price": 86.99,
+    "manufacturer_id": 5
+  },
+  {
+    "_id": 5,
+    "name": "GeForce GTX 1080 Xtreme",
+    "price": 755,
+    "manufacturer_id": 6
+  }
+]
+`;

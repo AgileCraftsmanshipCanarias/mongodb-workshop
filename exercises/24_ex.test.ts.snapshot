@@ -1,0 +1,26 @@
+exports[`muestra un informe con los productos caros y baratos 1`] = `
+[
+  {
+    "caros": [
+      {
+        "name": "GeForce GTX 1080 Xtreme",
+        "price": 755
+      },
+      {
+        "name": "Yoga 520 Laptop",
+        "price": 559
+      }
+    ],
+    "baratos": [
+      {
+        "name": "HP Deskjet 3720 Printer",
+        "price": 59.99
+      },
+      {
+        "name": "SATA3 1TB Hard Drive",
+        "price": 86.99
+      }
+    ]
+  }
+]
+`;

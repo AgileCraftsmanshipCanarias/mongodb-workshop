@@ -1,0 +1,10 @@
+exports[`busca el producto con nombre 'SATA3 1TB Hard Drive' 1`] = `
+[
+  {
+    "_id": 1,
+    "name": "SATA3 1TB Hard Drive",
+    "price": 86.99,
+    "manufacturer_id": 5
+  }
+]
+`;

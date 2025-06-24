@@ -1,0 +1,16 @@
+exports[`busca los productos que empiezen por G 1`] = `
+[
+  {
+    "_id": 4,
+    "name": "GeForce GTX 1050Ti",
+    "price": 185,
+    "manufacturer_id": 7
+  },
+  {
+    "_id": 5,
+    "name": "GeForce GTX 1080 Xtreme",
+    "price": 755,
+    "manufacturer_id": 6
+  }
+]
+`;

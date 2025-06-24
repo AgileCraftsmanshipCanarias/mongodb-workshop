@@ -1,0 +1,59 @@
+exports[`crea un campo categoria basado en el nombre del producto 1`] = `
+[
+  {
+    "_id": 1,
+    "name": "SATA3 1TB Hard Drive",
+    "categoria": "Otro"
+  },
+  {
+    "_id": 2,
+    "name": "8GB DDR4 RAM",
+    "categoria": "Otro"
+  },
+  {
+    "_id": 3,
+    "name": "1TB SSD Drive",
+    "categoria": "Otro"
+  },
+  {
+    "_id": 4,
+    "name": "GeForce GTX 1050Ti",
+    "categoria": "Otro"
+  },
+  {
+    "_id": 5,
+    "name": "GeForce GTX 1080 Xtreme",
+    "categoria": "Otro"
+  },
+  {
+    "_id": 6,
+    "name": "24\\" LED Full HD Monitor",
+    "categoria": "Otro"
+  },
+  {
+    "_id": 7,
+    "name": "27\\" LED Full HD Monitor",
+    "categoria": "Otro"
+  },
+  {
+    "_id": 8,
+    "name": "Yoga 520 Laptop",
+    "categoria": "Portátil"
+  },
+  {
+    "_id": 9,
+    "name": "Ideapad 320 Laptop",
+    "categoria": "Portátil"
+  },
+  {
+    "_id": 10,
+    "name": "HP Deskjet 3720 Printer",
+    "categoria": "Impresora"
+  },
+  {
+    "_id": 11,
+    "name": "HP Laserjet Pro M26nw Printer",
+    "categoria": "Impresora"
+  }
+]
+`;
