@@ -162,3 +162,13 @@ Al completar este workshop, serás capaz de:
 ---
 
 ¡Buen aprendizaje con MongoDB! 🚀
+
+<details>
+
+<summary>Solución de golpe</summary>
+
+```
+Vete por cada uno de los ficheros .test.ts, y lo implementas, luego, (1) lanzas el test con node --test exercises/<ficehero>.test.ts, si la solución es correcta, continua al siguiente ejercicio, si no, analiza el error, corrije la query, y vas al punto (1), o sea, vuelves a lanzar los tests y así hasta que de verde. Hazlo todo de forma automática, no me preguntes, sigue hasta que termines todo
+```
+
+</details>
