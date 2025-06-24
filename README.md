@@ -5,7 +5,7 @@ Este repositorio contiene ejercicios prácticos para aprender MongoDB utilizando
 ## 🚀 Configuración del Entorno
 
 ### Prerrequisitos
-- Node.js (versión recomendada: 18+)
+- Node.js (versión recomendada: 24)
 - Docker y Docker Compose
 - TypeScript
 
