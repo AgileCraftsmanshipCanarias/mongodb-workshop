@@ -135,6 +135,8 @@ El workshop utiliza una base de datos `store` con dos colecciones:
 
 5. **Practica** creando tus propias variaciones de los ejercicios
 
+6. **Consulta las soluciones** en el tag `solved` del repositorio para ver las implementaciones completas de todos los ejercicios
+
 ## 📖 Progresión Recomendada
 
 | Nivel | Ejercicios | Enfoque |
