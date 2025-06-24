@@ -4,9 +4,7 @@ import { withMongo } from "./utils/withMongo.ts";
 test(
   "cuenta cuántos productos hay",
   withMongo(async (t, db) => {
-    const products = db.collection<{ _id: number }>("products");
-    const result = await products.countDocuments();
-
+    const result = null;
     t.assert.snapshot(result);
   }),
 );

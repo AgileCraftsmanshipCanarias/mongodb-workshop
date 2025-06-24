@@ -4,9 +4,7 @@ import { withMongo } from "./utils/withMongo.ts";
 test(
   "calcula el precio medio de los productos",
   withMongo(async (t, db) => {
-    const products = db.collection("products");
-    const result = await products.aggregate([{ $group: { _id: null, avgPrice: { $avg: "$price" } } }]).toArray();
-
+    const result = null;
     t.assert.snapshot(result);
   }),
 );

@@ -6,11 +6,7 @@ import { withMongo } from "./utils/withMongo.ts";
 test(
   "saca cuantos productos hay por cada manufacturer_id",
   withMongo(async (t, db) => {
-    const products = db.collection("products");
-    const result = await products.aggregate([{ $group: { _id: "$manufacturer_id", total: { $sum: 1 } } }]).toArray();
-
-    result.sort((a, b) => a._id - b._id);
-
+    const result = null;
     t.assert.snapshot(result);
   }),
 );
