@@ -1,3 +1,7 @@
+db = db.getSiblingDB("store");
+
+rs.initiate();
+
 db.manufacturers.insertMany([
   { _id: 1, name: "Asus" },
   { _id: 2, name: "Lenovo" },
